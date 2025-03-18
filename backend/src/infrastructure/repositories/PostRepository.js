@@ -10,4 +10,4 @@ class PostRepository extends IPostRepository  {
   }
 }
 
-module.exports = new PostRepository();
+module.exports = PostRepository
